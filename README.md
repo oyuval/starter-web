@@ -9,6 +9,12 @@ This is example is to show differenet parts fo the Git repository and various co
 
 
 ## Purpose
+
+As stated above the main purpose is to provide simple example for Git traning demos
+
 ## Deployment
+
+this is a simple web projedct , deployment can be on any server
+
 ## How to Contribute
 
