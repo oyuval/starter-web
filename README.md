@@ -18,3 +18,8 @@ this is a simple web projedct , deployment can be on any server
 
 ## How to Contribute
 
+
+
+## Copyright
+
+2014 Git.Training.
