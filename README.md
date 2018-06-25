@@ -18,7 +18,7 @@ this is a simple web projedct , deployment can be on any server
 
 ## How to Contribute
 
-
+Please fork this repository and then issue pull request
 
 ## Copyright
 
