@@ -3,6 +3,7 @@
 This is a simple website project for 
 showing how to user Hit and Github
 Adding qa line for rebaseing example
+then more changes from myfeatures branch too
 
 
 
